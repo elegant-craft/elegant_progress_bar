@@ -1,8 +1,8 @@
 name: elegant_progress_bar
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
-
+description: "A Flutter progress_bar project."
+version: 1.0.0
+homepage: https://github.com/elegant-craft/elegant_progress_bar
+license: MIT
 environment:
   sdk: ^3.7.2
   flutter: ">=1.17.0"
